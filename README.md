@@ -1,4 +1,4 @@
-# Vishan Oberoi  
+# Hey, I'm Vishan Oberoi.
 **Machine Learning Engineer | CMU SCS '26**  
 TA @ CMU (11-785 Deep Learning)  
 
