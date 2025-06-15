@@ -1,5 +1,5 @@
 # Hey, I'm Vishan Oberoi.
-**Machine Learning Engineer | CMU 
+Machine Learning Engineer | CMU 
 
 ### 🔗 Connect  
 - X: [https://x.com/VishanOberoi/](https://x.com/VishanOberoi)
