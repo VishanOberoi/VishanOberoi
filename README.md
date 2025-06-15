@@ -1,5 +1,5 @@
 # Hey, I'm Vishan Oberoi.
-**Machine Learning Engineer | CMU SCS '26**  
+**Machine Learning Engineer | CMU 
 TA @ CMU (11-785 Deep Learning)  
 
 🔬 Fine-tuning | AI Watermarking | Medical ML  
